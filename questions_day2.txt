@@ -1,0 +1,12 @@
+In our script, when would you use a list versus a dictionary to store data? What was the purpose of using both?
+
+We read from server.log but wrote the output to a new file, error_summary.txt. Why is this a much better practice than modifying the original log file directly?
+
+In a single sentence, what does the .split(' ', 3) method do to a string of text?
+
+
+
+
+
+
+

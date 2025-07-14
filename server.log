@@ -1,0 +1,307 @@
+025-07-06 08:30:15 INFO: User 'alice' logged in successfully.
+2025-07-06 08:32:45 WARNING: Disk space is running low on /var/log.
+2025-07-06 08:33:12 ERROR: [AuthService] Database connection failed: Timeout expired.
+2025-07-06 08:35:01 INFO: User 'bob' logged in successfully.
+2025-07-06 08:36:22 ERROR: [Billing] NullPointerException in payment module.
+2025-07-06 08:40:05 INFO: Processing job #124.
+2025-07-06 08:42:15 ERROR: [Billing] API key for payment gateway is invalid.
+2025-07-06 08:30:00 WARNING: High CPU usage on node-3.
+2025-07-06 08:31:23 INFO: Processing job #674.
+2025-07-06 08:32:44 ERROR: [FileSystem] Disk write error on /dev/sda1.
+2025-07-06 08:34:00 INFO: Processing job #674.
+2025-07-06 08:35:52 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 08:36:40 ERROR: [UserProfile] NullPointerException in payment module.
+2025-07-06 08:36:00 INFO: New session started for user 'charlie'.
+2025-07-06 08:37:07 WARNING: High CPU usage on node-3.
+2025-07-06 08:35:52 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 08:41:24 INFO: Scheduled task executed successfully.
+2025-07-06 08:40:30 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 08:37:20 INFO: User 'alice' logged in successfully.
+2025-07-06 08:46:12 ERROR: [Scheduler] NullPointerException in payment module.
+2025-07-06 08:37:48 ERROR: [Scheduler] API key for payment gateway is invalid.
+2025-07-06 08:38:24 INFO: Scheduled task executed successfully.
+2025-07-06 08:42:45 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 08:53:28 WARNING: Slow response time detected in [CacheService].
+2025-07-06 08:41:37 ERROR: [Database] Failed to send email: SMTP server not responding.
+2025-07-06 08:45:54 WARNING: Memory usage exceeded 80%.
+2025-07-06 08:44:15 WARNING: Slow response time detected in [CacheService].
+2025-07-06 08:46:40 INFO: New session started for user 'charlie'.
+2025-07-06 08:41:12 INFO: Backup completed for /home/data.
+2025-07-06 08:55:40 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 08:56:27 INFO: System health check passed.
+2025-07-06 08:49:12 INFO: Backup completed for /home/data.
+2025-07-06 08:53:45 INFO: System health check passed.
+2025-07-06 08:55:34 ERROR: [Billing] Database connection failed: Timeout expired.
+2025-07-06 09:06:00 WARNING: Memory usage exceeded 80%.
+2025-07-06 08:52:24 INFO: Backup completed for /home/data.
+2025-07-06 08:54:39 WARNING: Disk space is running low on /var/log.
+2025-07-06 09:02:30 INFO: New session started for user 'charlie'.
+2025-07-06 09:02:02 INFO: Scheduled task executed successfully.
+2025-07-06 09:03:36 ERROR: [Billing] Service unavailable: Max retries exceeded.
+2025-07-06 09:13:27 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 09:14:46 INFO: User 'alice' logged in successfully.
+2025-07-06 09:14:55 INFO: Backup completed for /home/data.
+2025-07-06 09:14:24 INFO: Backup completed for /home/data.
+2025-07-06 09:24:16 ERROR: [UserProfile] API key for payment gateway is invalid.
+2025-07-06 08:56:36 INFO: User 'alice' logged in successfully.
+2025-07-06 09:10:18 ERROR: [Logger] Failed to send email: SMTP server not responding.
+2025-07-06 08:51:20 ERROR: [Database] Query execution error: Syntax error near 'FROM'.
+2025-07-06 09:15:47 WARNING: Disk space is running low on /var/log.
+2025-07-06 09:05:42 WARNING: Login attempt failed: Too many requests.
+2025-07-06 08:53:39 INFO: Processing job #674.
+2025-07-06 08:56:24 INFO: User 'bob' logged out.
+2025-07-06 09:29:15 INFO: System health check passed.
+2025-07-06 09:02:12 ERROR: [CacheService] Query execution error: Syntax error near 'FROM'.
+2025-07-06 09:37:22 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 09:18:48 ERROR: [EmailService] Failed to send email: SMTP server not responding.
+2025-07-06 08:55:19 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 09:05:50 INFO: Processing job #674.
+2025-07-06 09:44:48 INFO: New session started for user 'charlie'.
+2025-07-06 09:12:28 ERROR: [Notification] Failed to send email: SMTP server not responding.
+2025-07-06 09:47:44 INFO: Processing job #674.
+2025-07-06 09:42:00 INFO: User 'bob' logged out.
+2025-07-06 09:41:30 INFO: User 'alice' logged in successfully.
+2025-07-06 09:36:16 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 09:14:39 ERROR: [CacheService] API key for payment gateway is invalid.
+2025-07-06 09:38:38 ERROR: [UserProfile] Query execution error: Syntax error near 'FROM'.
+2025-07-06 09:29:00 WARNING: Disk space is running low on /var/log.
+2025-07-06 10:00:00 WARNING: Login attempt failed: Too many requests.
+2025-07-06 09:55:24 INFO: Scheduled task executed successfully.
+2025-07-06 09:46:28 INFO: System health check passed.
+2025-07-06 09:18:18 INFO: New session started for user 'charlie'.
+2025-07-06 09:45:44 INFO: Backup completed for /home/data.
+2025-07-06 10:04:15 ERROR: [Scheduler] Query execution error: Syntax error near 'FROM'.
+2025-07-06 09:30:30 WARNING: Disk space is running low on /var/log.
+2025-07-06 09:21:22 ERROR: [EmailService] Service unavailable: Max retries exceeded.
+2025-07-06 09:10:48 INFO: Backup completed for /home/data.
+2025-07-06 10:07:45 ERROR: [AuthService] Failed to send email: SMTP server not responding.
+2025-07-06 10:11:30 ERROR: [Database] Failed to send email: SMTP server not responding.
+2025-07-06 09:14:58 WARNING: Slow response time detected in [CacheService].
+2025-07-06 09:44:24 INFO: System health check passed.
+2025-07-06 09:41:47 ERROR: [UserProfile] Service unavailable: Max retries exceeded.
+2025-07-06 09:39:04 WARNING: Memory usage exceeded 80%.
+2025-07-06 10:08:45 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 10:10:04 INFO: System health check passed.
+2025-07-06 09:55:59 WARNING: Slow response time detected in [CacheService].
+2025-07-06 09:22:00 ERROR: [Logger] NullPointerException in payment module.
+2025-07-06 10:10:04 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:27:20 INFO: New session started for user 'charlie'.
+2025-07-06 09:17:15 ERROR: [CacheService] Query execution error: Syntax error near 'FROM'.
+2025-07-06 09:54:44 WARNING: Memory usage exceeded 80%.
+2025-07-06 09:15:39 ERROR: [Scheduler] API key for payment gateway is invalid.
+2025-07-06 10:22:00 INFO: Processing job #674.
+2025-07-06 10:31:50 WARNING: Memory usage exceeded 80%.
+2025-07-06 10:08:54 ERROR: [Scheduler] Service unavailable: Max retries exceeded.
+2025-07-06 09:36:42 INFO: New session started for user 'charlie'.
+2025-07-06 09:47:44 INFO: Processing job #674.
+2025-07-06 09:21:55 ERROR: [AuthService] API key for payment gateway is invalid.
+2025-07-06 09:40:30 WARNING: Slow response time detected in [CacheService].
+2025-07-06 10:11:37 INFO: User 'alice' logged in successfully.
+2025-07-06 10:46:28 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:16:57 INFO: Backup completed for /home/data.
+2025-07-06 10:07:08 WARNING: Login attempt failed: Too many requests.
+2025-07-06 10:33:30 INFO: Scheduled task executed successfully.
+2025-07-06 10:14:00 INFO: System health check passed.
+2025-07-06 10:52:16 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 09:58:12 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 10:22:12 WARNING: Disk space is running low on /var/log.
+2025-07-06 10:58:20 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:41:18 ERROR: [Scheduler] Database connection failed: Timeout expired.
+2025-07-06 09:53:18 ERROR: [Database] Service unavailable: Max retries exceeded.
+2025-07-06 10:28:27 INFO: Backup completed for /home/data.
+2025-07-06 10:29:36 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:41:15 ERROR: [Notification] Disk write error on /dev/sda1.
+2025-07-06 11:09:00 ERROR: [Logger] Permission denied while accessing /etc/passwd.
+2025-07-06 10:02:44 INFO: Backup completed for /home/data.
+2025-07-06 10:36:00 INFO: New session started for user 'charlie'.
+2025-07-06 10:31:43 INFO: User 'bob' logged out.
+2025-07-06 10:58:30 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:21:00 INFO: System health check passed.
+2025-07-06 09:37:12 INFO: Scheduled task executed successfully.
+2025-07-06 09:39:41 INFO: Scheduled task executed successfully.
+2025-07-06 10:06:54 WARNING: Disk space is running low on /var/log.
+2025-07-06 11:01:25 INFO: Backup completed for /home/data.
+2025-07-06 10:06:40 ERROR: [EmailService] Failed to send email: SMTP server not responding.
+2025-07-06 10:07:30 ERROR: [AuthService] Database connection failed: Timeout expired.
+2025-07-06 11:13:14 ERROR: [Logger] NullPointerException in payment module.
+2025-07-06 10:50:49 WARNING: Login attempt failed: Too many requests.
+2025-07-06 10:36:00 INFO: Backup completed for /home/data.
+2025-07-06 11:31:30 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:01:30 INFO: System health check passed.
+2025-07-06 10:30:57 ERROR: [Billing] User profile update failed: Invalid data format.
+2025-07-06 11:27:44 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 11:10:25 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 11:30:36 INFO: System health check passed.
+2025-07-06 10:56:03 ERROR: [Billing] User profile update failed: Invalid data format.
+2025-07-06 11:03:36 ERROR: [Billing] Service unavailable: Max retries exceeded.
+2025-07-06 10:36:51 INFO: Scheduled task executed successfully.
+2025-07-06 10:48:40 WARNING: Login attempt failed: Too many requests.
+2025-07-06 10:19:10 WARNING: Slow response time detected in [CacheService].
+2025-07-06 11:37:00 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 09:58:40 ERROR: [CacheService] Service unavailable: Max retries exceeded.
+2025-07-06 11:04:06 INFO: Backup completed for /home/data.
+2025-07-06 09:42:00 WARNING: Disk space is running low on /var/log.
+2025-07-06 09:47:04 INFO: Processing job #674.
+2025-07-06 11:12:07 ERROR: [Database] Query execution error: Syntax error near 'FROM'.
+2025-07-06 10:18:06 INFO: User 'bob' logged out.
+2025-07-06 10:44:22 ERROR: [Billing] Query execution error: Syntax error near 'FROM'.
+2025-07-06 10:45:20 WARNING: Disk space is running low on /var/log.
+2025-07-06 11:40:21 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 12:03:00 INFO: Processing job #674.
+2025-07-06 09:48:39 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 10:34:48 ERROR: [AuthService] Token validation failed: Signature mismatch.
+2025-07-06 10:33:15 ERROR: [Logger] Failed to send email: SMTP server not responding.
+2025-07-06 10:19:30 WARNING: Memory usage exceeded 80%.
+2025-07-06 10:10:27 ERROR: [EmailService] Database connection failed: Timeout expired.
+2025-07-06 09:48:56 INFO: User 'bob' logged out.
+2025-07-06 10:54:02 INFO: System health check passed.
+2025-07-06 11:10:00 INFO: User 'alice' logged in successfully.
+2025-07-06 09:55:34 INFO: User 'bob' logged out.
+2025-07-06 10:54:24 INFO: New session started for user 'charlie'.
+2025-07-06 10:34:57 INFO: Scheduled task executed successfully.
+2025-07-06 11:34:48 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 12:01:50 INFO: New session started for user 'charlie'.
+2025-07-06 10:32:12 ERROR: [FileSystem] Database connection failed: Timeout expired.
+2025-07-06 12:12:25 WARNING: Memory usage exceeded 80%.
+2025-07-06 12:27:00 ERROR: [Database] User profile update failed: Invalid data format.
+2025-07-06 11:35:30 INFO: Processing job #674.
+2025-07-06 12:06:00 WARNING: Disk space is running low on /var/log.
+2025-07-06 12:26:08 ERROR: [Database] User profile update failed: Invalid data format.
+2025-07-06 10:53:06 ERROR: [UserProfile] Service unavailable: Max retries exceeded.
+2025-07-06 10:53:59 INFO: User 'bob' logged out.
+2025-07-06 09:54:44 WARNING: High CPU usage on node-3.
+2025-07-06 10:47:30 ERROR: [CacheService] Token validation failed: Signature mismatch.
+2025-07-06 12:39:00 WARNING: Memory usage exceeded 80%.
+2025-07-06 10:49:10 INFO: User 'alice' logged in successfully.
+2025-07-06 11:40:24 INFO: Processing job #674.
+2025-07-06 10:14:13 INFO: New session started for user 'charlie'.
+2025-07-06 10:12:00 INFO: New session started for user 'charlie'.
+2025-07-06 12:18:00 INFO: System health check passed.
+2025-07-06 11:47:48 ERROR: [FileSystem] Permission denied while accessing /etc/passwd.
+2025-07-06 09:56:30 INFO: User 'alice' logged in successfully.
+2025-07-06 11:41:24 ERROR: [Database] NullPointerException in payment module.
+2025-07-06 12:40:50 INFO: Backup completed for /home/data.
+2025-07-06 10:50:48 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 10:45:42 INFO: System health check passed.
+2025-07-06 11:45:48 INFO: User 'bob' logged out.
+2025-07-06 10:08:27 INFO: Scheduled task executed successfully.
+2025-07-06 10:09:00 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 12:01:10 INFO: New session started for user 'charlie'.
+2025-07-06 10:10:06 ERROR: [Logger] Permission denied while accessing /etc/passwd.
+2025-07-06 12:40:06 ERROR: [FileSystem] API key for payment gateway is invalid.
+2025-07-06 11:52:24 INFO: New session started for user 'charlie'.
+2025-07-06 12:39:45 WARNING: Disk space is running low on /var/log.
+2025-07-06 12:47:18 INFO: Processing job #674.
+2025-07-06 12:14:24 INFO: User 'bob' logged out.
+2025-07-06 10:51:00 INFO: Processing job #674.
+2025-07-06 13:13:30 INFO: User 'bob' logged out.
+2025-07-06 10:11:20 WARNING: Disk space is running low on /var/log.
+2025-07-06 10:37:20 INFO: User 'bob' logged out.
+2025-07-06 12:52:24 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 13:19:30 WARNING: Login attempt failed: Too many requests.
+2025-07-06 11:24:36 INFO: New session started for user 'charlie'.
+2025-07-06 11:06:00 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 11:16:36 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 10:31:29 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 11:31:30 INFO: System health check passed.
+2025-07-06 11:45:41 ERROR: [Logger] API key for payment gateway is invalid.
+2025-07-06 11:00:00 ERROR: [Database] Failed to send email: SMTP server not responding.
+2025-07-06 10:50:42 INFO: Scheduled task executed successfully.
+2025-07-06 12:59:20 ERROR: [AuthService] Service unavailable: Max retries exceeded.
+2025-07-06 10:31:48 INFO: Scheduled task executed successfully.
+2025-07-06 11:30:12 INFO: Processing job #674.
+2025-07-06 10:36:25 INFO: New session started for user 'charlie'.
+2025-07-06 12:26:54 ERROR: [UserProfile] Service unavailable: Max retries exceeded.
+2025-07-06 11:39:45 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 12:11:52 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 10:52:49 WARNING: High CPU usage on node-3.
+2025-07-06 13:10:00 WARNING: High CPU usage on node-3.
+2025-07-06 11:11:46 ERROR: [Notification] API key for payment gateway is invalid.
+2025-07-06 10:33:40 WARNING: Slow response time detected in [CacheService].
+2025-07-06 12:17:12 INFO: New session started for user 'charlie'.
+2025-07-06 11:35:28 INFO: User 'bob' logged out.
+2025-07-06 11:39:55 ERROR: [UserProfile] API key for payment gateway is invalid.
+2025-07-06 11:19:12 WARNING: Disk space is running low on /var/log.
+2025-07-06 11:12:45 WARNING: Login attempt failed: Too many requests.
+2025-07-06 11:57:06 ERROR: [Logger] NullPointerException in payment module.
+2025-07-06 13:40:15 WARNING: Slow response time detected in [CacheService].
+2025-07-06 12:50:20 INFO: Scheduled task executed successfully.
+2025-07-06 13:50:27 INFO: Processing job #674.
+2025-07-06 12:45:18 INFO: Backup completed for /home/data.
+2025-07-06 13:23:37 INFO: System health check passed.
+2025-07-06 12:51:20 ERROR: [EmailService] Database connection failed: Timeout expired.
+2025-07-06 13:56:15 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 13:53:56 INFO: User 'alice' logged in successfully.
+2025-07-06 14:10:30 INFO: System health check passed.
+2025-07-06 10:31:36 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 11:52:17 WARNING: Login attempt failed: Too many requests.
+2025-07-06 12:39:10 ERROR: [Scheduler] User profile update failed: Invalid data format.
+2025-07-06 11:23:15 INFO: User 'alice' logged in successfully.
+2025-07-06 12:37:28 ERROR: [CacheService] API key for payment gateway is invalid.
+2025-07-06 10:57:34 INFO: Backup completed for /home/data.
+2025-07-06 10:38:42 INFO: Processing job #674.
+2025-07-06 10:51:00 ERROR: [Scheduler] Token validation failed: Signature mismatch.
+2025-07-06 11:30:56 WARNING: Memory usage exceeded 80%.
+2025-07-06 13:14:24 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 11:00:44 INFO: Scheduled task executed successfully.
+2025-07-06 10:33:29 ERROR: [Database] Permission denied while accessing /etc/passwd.
+2025-07-06 13:30:00 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 13:03:08 WARNING: High CPU usage on node-3.
+2025-07-06 11:27:28 ERROR: [Notification] Query execution error: Syntax error near 'FROM'.
+2025-07-06 12:04:39 INFO: System health check passed.
+2025-07-06 13:18:44 WARNING: Slow response time detected in [CacheService].
+2025-07-06 11:46:00 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 13:45:42 ERROR: [Logger] Query execution error: Syntax error near 'FROM'.
+2025-07-06 11:18:47 INFO: New session started for user 'charlie'.
+2025-07-06 13:31:44 INFO: Scheduled task executed successfully.
+2025-07-06 12:01:39 WARNING: Slow response time detected in [CacheService].
+2025-07-06 11:33:20 INFO: Scheduled task executed successfully.
+2025-07-06 11:00:36 WARNING: Login attempt failed: Too many requests.
+2025-07-06 14:14:24 ERROR: [Scheduler] Token validation failed: Signature mismatch.
+2025-07-06 12:59:52 INFO: System health check passed.
+2025-07-06 11:40:30 ERROR: [Database] API key for payment gateway is invalid.
+2025-07-06 14:44:00 ERROR: [Logger] Database connection failed: Timeout expired.
+2025-07-06 12:58:48 INFO: System health check passed.
+2025-07-06 11:38:28 INFO: New session started for user 'charlie'.
+2025-07-06 14:22:36 INFO: User 'alice' logged in successfully.
+2025-07-06 14:54:11 WARNING: Deprecated API used in /api/v1/items.
+2025-07-06 12:41:20 ERROR: [Notification] Token validation failed: Signature mismatch.
+2025-07-06 13:30:09 WARNING: Login attempt failed: Too many requests.
+2025-07-06 10:58:28 INFO: Backup completed for /home/data.
+2025-07-06 10:59:02 INFO: Backup completed for /home/data.
+2025-07-06 11:39:12 WARNING: Disk space is running low on /var/log.
+2025-07-06 15:07:30 INFO: Scheduled task executed successfully.
+2025-07-06 13:18:10 INFO: Processing job #674.
+2025-07-06 14:08:12 INFO: User 'alice' logged in successfully.
+2025-07-06 10:57:24 ERROR: [CacheService] User profile update failed: Invalid data format.
+2025-07-06 14:42:07 INFO: Configuration loaded from /etc/app/config.yaml.
+2025-07-06 13:31:30 INFO: New session started for user 'charlie'.
+2025-07-06 11:08:05 ERROR: [Scheduler] Database connection failed: Timeout expired.
+2025-07-06 12:25:44 INFO: User 'bob' logged out.
+2025-07-06 15:10:24 INFO: User 'alice' logged in successfully.
+2025-07-06 14:58:10 INFO: New session started for user 'charlie'.
+2025-07-06 14:41:15 INFO: New session started for user 'charlie'.
+2025-07-06 13:19:48 INFO: Processing job #674.
+2025-07-06 13:16:14 ERROR: [Logger] Service unavailable: Max retries exceeded.
+2025-07-06 13:45:04 INFO: Backup completed for /home/data.
+2025-07-06 12:41:06 INFO: User 'alice' logged in successfully.
+2025-07-06 13:24:00 INFO: New session started for user 'charlie'.
+2025-07-06 13:06:19 INFO: Backup completed for /home/data.
+2025-07-06 13:35:30 ERROR: [Scheduler] Disk write error on /dev/sda1.
+2025-07-06 13:31:52 ERROR: [FileSystem] User profile update failed: Invalid data format.
+2025-07-06 11:53:32 ERROR: [Database] Disk write error on /dev/sda1.
+2025-07-06 14:02:30 INFO: Backup completed for /home/data.
+2025-07-06 12:14:02 ERROR: [UserProfile] Failed to send email: SMTP server not responding.
+2025-07-06 15:16:35 WARNING: High CPU usage on node-3.
+2025-07-06 12:06:00 ERROR: [CacheService] User profile update failed: Invalid data format.
+2025-07-06 13:04:33 ERROR: [Notification] API key for payment gateway is invalid.
+2025-07-06 14:51:50 INFO: User 'alice' logged in successfully.
+2025-07-06 12:37:21 WARNING: Disk space is running low on /var/log.
+2025-07-06 13:46:20 INFO: User 'alice' logged in successfully.
+2025-07-06 13:37:39 ERROR: [Notification] Query execution error: Syntax error near 'FROM'.
+2025-07-06 11:46:00 ERROR: [UserProfile] Database connection failed: Timeout expired.
+2025-07-06 13:10:15 INFO: User 'bob' logged out.
+2025-07-06 14:30:08 WARNING: Disk space is running low on /var/log.
+2025-07-06 13:07:12 ERROR: [Logger] Service unavailable: Max retries exceeded.
+2025-07-06 11:43:42 WARNING: Slow response time detected in [CacheService].
+2025-07-06 14:33:47 INFO: Scheduled task executed successfully.
