@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "movie-recommendation"
+version = "0.1.0"
+description = "A simple movie recommendation engine"
+authors = [{name="Your Name", email="you@example.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "pyyaml"
+]
+
+[tool.setuptools]
+py-modules = ["recommender"]   # because you have a single module file

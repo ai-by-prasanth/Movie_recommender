@@ -1,0 +1,8 @@
+# config.yaml
+
+movies_path: "movies.csv"   # Path to your movies dataset
+top_k: 2                    # Number of recommendations per user
+metric: "cosine"            # Similarity metric: "cosine" or "dot"
+logging:
+  level: "INFO"             # Options: DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(levelname)s - %(message)s"
