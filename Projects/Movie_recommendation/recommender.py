@@ -213,7 +213,7 @@ if __name__ == "__main__":
         )
 
         # Print the results in a user-friendly way
-        print("\n--- ✅ Recommendation Results ---")
+        print("\n---  Recommendation Results ---")
         for i, user_recs in enumerate(recommendations):
             print(f"\nTop {CONFIG['top_k']} recommendations for User #{i+1}:")
             for title, score in user_recs:
